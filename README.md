@@ -1,2 +1,2 @@
 # dartboard
-Code to analyze wedge vectors on a dartboard
+Analyzes wedge vectors on a dartboard
